@@ -31,9 +31,6 @@
   </a>
 </div>
 
-
-<h4 align="center">Experience</h4>
-
 <div align="center">
 
 </div>
